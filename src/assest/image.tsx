@@ -1,0 +1,9 @@
+export const backIcon = require("../assest/images/backarrow.png");
+export const rightIcon = require("../assest/images/right.png");
+export const backgrounddot = require("../assest/images/BG-1.png");
+export const backgroundbluewhite = require("../assest/images/bg_1.png");
+export const car = require("../assest/images/car.png");
+export const greter = require("../assest/images/greter.png");
+export const profileimg = require("../assest/images/profile.png");
+export const incorrect = require("../assest/images/wrong.png");
+export const bgmap = require("../assest/images/bgmap.png");
